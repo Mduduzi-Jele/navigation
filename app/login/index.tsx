@@ -1,12 +1,12 @@
 import React from 'react'
 import { Text, View } from 'react-native'
 
-function two() {
+function login() {
   return (
     <View>
-        <Text>This is tab two</Text>
+        <Text>login</Text>
     </View>
   )
 }
 
-export default two
+export default login

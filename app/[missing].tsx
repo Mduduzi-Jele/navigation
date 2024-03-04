@@ -1,12 +1,12 @@
 import React from 'react'
 import { Text, View } from 'react-native'
 
-function two() {
+function NotFound() {
   return (
     <View>
-        <Text>This is tab two</Text>
+        <Text style={{ fontSize: 20 }}>Not found!!!</Text>
     </View>
   )
 }
 
-export default two
+export default NotFound
